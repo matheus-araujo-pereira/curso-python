@@ -1,1 +1,1 @@
-# curso-python
+# Repositório com as minhas anotações e soluções do Curso de Python do Básico ao Avançado do Luiz Otávio Miranda.
